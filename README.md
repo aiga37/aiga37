@@ -1,4 +1,4 @@
-# Приветствую 🐯
+## Приветствую 🐯
 
 <div align="center">
 
@@ -32,16 +32,16 @@ _Я открыта для новых знаний, постоянно работ
 ## Инструменты
 <p align="left">
 <a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/aiga37/aiga37/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+<img src="https://github.com/aiga37/aiga37/blob/main/icons/Jira.png" alt="Jira" width="50" height="50"/>
 </a>
 <a href="https://www.postman.com/">
-<img src="https://github.com/aiga37/aiga37/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+<img src="https://github.com/aiga37/aiga37/blob/main/icons/Postman.png" alt="Postman" width="50" height="50"/>
 </a>
 <a href="https://dbeaver.io/">
-<img src="https://github.com/aiga37/aiga37/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
+<img src="https://github.com/aiga37/aiga37/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50"/>
 </a>
 <a href="https://www.jetbrains.com/idea/">
-<img src="https://github.com/aiga37/aiga37/blob/main/icons/IDEA.png" alt="IDEA" width="50" height="50" />
+<img src="https://github.com/aiga37/aiga37/blob/main/icons/IDEA.png" alt="IDEA" width="50" height="50"/>
 </a>
 <a href="https://www.soapui.org/">
 <img src="https://github.com/aiga37/aiga37/blob/main/icons/SoapUI.png" alt="SoapUI" width="50" height="50"/>
