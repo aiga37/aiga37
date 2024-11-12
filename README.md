@@ -1,4 +1,4 @@
-## Приветствую 👋
+# Приветствую 👋
 
 <div align="center">
 
@@ -9,16 +9,16 @@
  Меня зовут Айгерим
 
 
-###Портфолио
+##Портфолио
 
 - [Тест-кейсы]()
 - [Баг-репорты]()
 - [Тест-план]()
 - [Тестовые сценарии]()
 
-###Теория тестирования
+##Теория тестирования
 
-###Инструменты
+##Инструменты
 <p align="left">
 <a href="https://www.atlassian.com/software/jira">
 <img src="https://github.com/aiga37/aiga37/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
@@ -41,7 +41,7 @@
 </p>
 
 
-####Мои контакты
+##Мои контакты
 
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AigaS)
 [![linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aigas)
