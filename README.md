@@ -29,17 +29,21 @@ _Я открыта для новых знаний, постоянно работ
 
 ## Теория тестирования
 
-## Инструменты
+
+
+### Инструменты
+
 <p align="left">
-<a href="https://www.atlassian.com/software/jira" target="blank"><img align="center" src="https://github.com/aiga37/aiga37/blob/main/icons/Jira.png" alt="jira" height="30" width="40" /></a>
+<a href="https://www.atlassian.com/software/jira" target="blank"><img align="center" src="https://github.com/aiga37/aiga37/blob/main/icons/Jira.png" alt="jira" width="50" height="50" title="jira"/></a>
 <a href="https://www.postman.com/"><img src="https://github.com/aiga37/aiga37/blob/main/icons/Postman.png" alt="Postman" width="50" height="50"/></a>
 <a href="https://dbeaver.io/"><img src="https://github.com/aiga37/aiga37/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50"/></a>
 <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/aiga37/aiga37/blob/main/icons/IDEA.png" alt="IDEA" width="50" height="50"/></a>
 <a href="https://www.soapui.org/"><img src="https://github.com/aiga37/aiga37/blob/main/icons/SoapUI.png" alt="SoapUI" width="50" height="50"/></a>
+<a href="https://trello.com/"><img src="https://github.com/aiga37/aiga37/blob/main/icons/Trello.png" alt="Trello" width="50" height="50"/></a>
 
 
 
-## Мои контакты 🔗
+### Мои контакты 
 
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AigaS)
 [![linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aigas)
