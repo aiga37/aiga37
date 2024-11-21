@@ -47,6 +47,6 @@ _Я открыта для новых знаний, постоянно работ
 
 [![telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AigaS)
 [![linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aigas)
-[![headhunter](https://img.shields.io/badge/-hh-090909?style=for-the-badge&logo=headhunter)](https://hh.ru/resume/d63f72efff008811e80039ed1f736563726574)
+[![headhunter](https://img.shields.io/badge/-hh-090909?style=for-the-badge&logo=headhunter)](https://astana.hh.kz/resume/d63f72efff008811e80039ed1f736563726574)
 
 
