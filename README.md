@@ -22,10 +22,10 @@ _Я открыта для новых знаний, постоянно работ
 
 ## Портфолио
 
-- [Тест-кейсы]()
-- [Баг-репорты]()
-- [Тест-план]()
-- [Тестовые сценарии]()
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1GQuxxvpz2vu4a6fsiEO5uGhYWGQ9wxOfOFcP8C4phyo/edit?gid=0#gid=0)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1-j3Iysh1KRJ9a1l2uu0yy61j7Fo09U_FqGBW1L45f_c/edit?gid=548503789#gid=548503789)
+- [Чек-листы](https://docs.google.com/spreadsheets/d/1iOzrupoRkNFAlolNV-KlF0pxfTnuAFagA_jQFtkenpI/edit?gid=0#gid=0)
+
 
 ## Теория тестирования
 
