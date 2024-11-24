@@ -17,7 +17,7 @@ _Я открыта для новых знаний, постоянно работ
  тестирования, повышаю уровень английского языка. Использую Trello для эффективного управления
  личными задачами и целями._
 
- _Сейчас ищу возможность сделать следующий шаг в своей карьере._ 
+ _Сейчас ищу возможность сделать следующий шаг в своей карьере._
 
 
 ## Портфолио
@@ -25,9 +25,15 @@ _Я открыта для новых знаний, постоянно работ
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1GQuxxvpz2vu4a6fsiEO5uGhYWGQ9wxOfOFcP8C4phyo/edit?gid=0#gid=0)
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1-j3Iysh1KRJ9a1l2uu0yy61j7Fo09U_FqGBW1L45f_c/edit?gid=548503789#gid=548503789)
 - [Чек-листы](https://docs.google.com/spreadsheets/d/1iOzrupoRkNFAlolNV-KlF0pxfTnuAFagA_jQFtkenpI/edit?gid=0#gid=0)
+  * [mind map](https://miro.com/app/board/uXjVLFQf9f8=/)
+- [Тест-план](https://docs.google.com/document/d/15upJtBB4ZY6mXvbIBw1ItBdO-FHpYS_n1JQBGtAkJ1Y/edit?usp=sharing)
 
 
-## Теория тестирования
+## База знаний
+* Теория тестирования
+  - mind map
+  - Coursera
+* Общее
 
 
 
