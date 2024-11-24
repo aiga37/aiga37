@@ -29,11 +29,11 @@ _Я открыта для новых знаний, постоянно работ
 - [Тест-план](https://docs.google.com/document/d/15upJtBB4ZY6mXvbIBw1ItBdO-FHpYS_n1JQBGtAkJ1Y/edit?usp=sharing)
 
 
-## База знаний
-* Теория тестирования
+### База знаний 
+* [KB](https://www.notion.so/148dd6abf24180e78ebbc5f4d6d2a347?v=148dd6abf2418010837d000c8177aab1&pvs=4)
   - [mind map](https://miro.com/app/board/uXjVOAdzODs=/)
   - Coursera
-* Общее
+
 
 
 
