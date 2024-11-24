@@ -31,7 +31,7 @@ _Я открыта для новых знаний, постоянно работ
 
 ## База знаний
 * Теория тестирования
-  - mind map
+  - [mind map](https://miro.com/app/board/uXjVOAdzODs=/)
   - Coursera
 * Общее
 
