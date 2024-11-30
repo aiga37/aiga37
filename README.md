@@ -30,9 +30,8 @@ _Я открыта для новых знаний, постоянно работ
 
 
 ### База знаний 
-* [KB](https://www.notion.so/148dd6abf24180e78ebbc5f4d6d2a347?v=148dd6abf2418010837d000c8177aab1&pvs=4)
-  - [mind map](https://miro.com/app/board/uXjVOAdzODs=/)
-  - Coursera
+* [My Knowledge Base](https://daily-enthusiasm-b6d.notion.site/148dd6abf24180e78ebbc5f4d6d2a347?v=14edd6abf24180d0939d000c35526982)
+
 
 
 
